@@ -2,7 +2,7 @@ scikit-learn
 sklearn
 sklearn.datasets.fetch_openml
 streamlit as st
-pip install keras
+keras
 keras.datasets.mnist
 keras.models.Sequential
 keras.layers.Dense 
