@@ -1,0 +1,16 @@
+scikit-learn
+streamlit as st
+keras
+keras.datasets.mnist
+keras.models.Sequential
+keras.layers.Dense 
+keras.layers.Dropout 
+keras.layers.Flatten
+keras.layers  
+keras.layers.Conv2D 
+keras.layers.MaxPooling2D
+keras.backend
+opencv-python
+numpy as np
+streamlit_drawable_canvas.st_canvas
+visualkeras
