@@ -2,6 +2,7 @@ scikit-learn
 matplotlib
 seaborn
 pandas
+tensorflow
 keras
 opencv-python
 streamlit_drawable_canvas
