@@ -1,4 +1,6 @@
 scikit-learn
+sklearn
+sklearn.datasets.fetch_openml
 streamlit as st
 keras
 keras.datasets.mnist
