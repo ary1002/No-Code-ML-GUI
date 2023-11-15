@@ -1,5 +1,5 @@
 scikit-learn
-matplotlib.pyplot
+matplotlib
 seaborn
 pandas
 keras
